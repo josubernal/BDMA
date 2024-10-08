@@ -1,1 +1,2 @@
-Hello
+Hello everyone,
+I will be using this repository to upload the projects that I worked on during my BDMA master's program. This will allow me to easily share my work and keep everything organized in one place. I look forward to showcasing the projects I'll be working on and hope you find them informative and engaging. Hopefully, this will help future generations, and please feel free to contact me if necessary.
